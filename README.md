@@ -1,9 +1,14 @@
 - 👋 Hi, I’m @PeterRKAB
-- 👀 I’m interested in genral coding skills, SCRUB with GitHub releases,  
-- 🌱 I’m currently learning Python, and life skills
-- 💞️ I’m looking to collaborate on "gong system for meditation centre - Raspberry Pie stuff" and intelligent home systems. 
-- Always interested in interesting and practically applicable, small scale solutions. 
+- 👀 I’m interested in general coding skills ,  
+- 🌱 I’m currently learning Python
 
+#while loop
+n=5
+while (n<0):
+    n = n-1
+    print (n) 
+	
+  
 
 <!---
 PeterRKAB/PeterRKAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
