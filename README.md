@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterRKAB
 - 👀 I’m interested in general coding skills ,  
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently leading and learning a project on Software documentation. 
 
 #while loop
 n=5
